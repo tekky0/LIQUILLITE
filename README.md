@@ -47,11 +47,11 @@ You can explore and fork the full hardware design on <a href="https://oshwlab.co
 ## 🌊 &nbsp;See it move
 
 <p align="center">
-  <a href="[https://youtube.com/shorts/2AIkvsZuiDc](https://youtu.be/ThHMOvxxm6c)">
-    <img src="https://img.youtube.com/vi/2AIkvsZuiDc/hqdefault.jpg" alt="Watch the LIQUILLITE full demo on YouTube" width="420" />
+  <a href="https://youtu.be/ThHMOvxxm6c">
+    <img src="https://img.youtube.com/vi/ThHMOvxxm6c/hqdefault.jpg" alt="Watch the LIQUILLITE full demo on YouTube" width="420" />
   </a>
   <br /><br />
-  <a href="https://youtube.com/shorts/2AIkvsZuiDc">
+  <a href="https://youtu.be/ThHMOvxxm6c">
     <img src="https://img.shields.io/badge/watch_the_full_demo-YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the full demo on YouTube" />
   </a>
   <br />
@@ -115,9 +115,9 @@ You can explore and fork the full hardware design on <a href="https://oshwlab.co
 
 ## 🛠️ &nbsp;Building your own
 
-The Gerber, BOM and CPL files are on the [OSHWLab page](https://oshwlab.com/ezekielchang31/project_aiwnxyiw). Build from those, since the original design file is missing some traces.
+This board was designed in **KiCad**, and the original KiCad files are in this repo. Some traces were lost when importing it into EasyEDA, so the EasyEDA file is incomplete. To order boards, use the Gerber, BOM and CPL files on the [OSHWLab page](https://oshwlab.com/ezekielchang31/project_aiwnxyiw).
 
-To open the design:
+To open the EasyEDA version:
 
 1. Grab [EasyEDA Pro](https://pro.easyeda.com/) (desktop or web).
 2. Go to **File → Open → EasyEDA File** and pick `ProDoc_liquilite_.epro2`.
@@ -139,8 +139,7 @@ LIQUILLITE/
 ├── liquilite.ioc             → STM32CubeMX configuration
 ├── Core/                     → firmware source
 ├── Drivers/                  → STM32 HAL drivers
-├── media/                    → photos, renders and the demo clip
-└── kicad/                    → KiCAD Archived files
+└── media/                    → photos, renders and the demo clip
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7ee8d6,50:5fb8c9,100:f4d9c6" width="100%" alt="" />
