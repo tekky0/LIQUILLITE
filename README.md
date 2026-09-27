@@ -139,7 +139,8 @@ LIQUILLITE/
 ├── liquilite.ioc             → STM32CubeMX configuration
 ├── Core/                     → firmware source
 ├── Drivers/                  → STM32 HAL drivers
-└── media/                    → photos, renders and the demo clip
+├── media/                    → photos, renders and the demo clip
+└── kicad/                    → KiCAD Archived files
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7ee8d6,50:5fb8c9,100:f4d9c6" width="100%" alt="" />
