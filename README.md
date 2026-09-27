@@ -47,7 +47,7 @@ You can explore and fork the full hardware design on <a href="https://oshwlab.co
 ## 🌊 &nbsp;See it move
 
 <p align="center">
-  <a href="https://youtube.com/shorts/2AIkvsZuiDc">
+  <a href="[https://youtube.com/shorts/2AIkvsZuiDc](https://youtu.be/ThHMOvxxm6c)">
     <img src="https://img.youtube.com/vi/2AIkvsZuiDc/hqdefault.jpg" alt="Watch the LIQUILLITE full demo on YouTube" width="420" />
   </a>
   <br /><br />
